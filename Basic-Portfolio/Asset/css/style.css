@@ -174,17 +174,23 @@ a {
 
 @media screen and (max-width: 980px) {
     .body-paragraph{
-        width: auto;
+        
     }
     .bio{
-        width: auto;
+       	margin: 0 auto;
+    	margin-bottom: 20px;
     }
     .connecting1{
-        width: auto;
+          width: 64.5%;
+	  margin: 0 auto;
+	  height: 210px;  
     }
     .top-bar{
         width: auto;
         marg: 0 auto;
+    }  
+    .name-box2{
+	margin-left: 178px;
     }    
     body:{
         width: auto;
